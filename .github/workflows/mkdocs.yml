@@ -1,11 +1,11 @@
-name: Build MkDocs
+name: Build Docs
 
 on:
   push:
     branches: [ "main" ]
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:
