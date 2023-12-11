@@ -1,12 +1,11 @@
 title: Somnium
 description: >- # this means to ignore newlines until "baseurl:"
   An OSR inspired TTRPG rule set
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "somnium" # the subpath of your site, e.g. /blog
+url: "https://jaredlotti.com" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: darkness
 
 # Build settings
 theme: just-the-docs
-remote_theme: just-the-docs
 plugins:
   - jekyll-feed
