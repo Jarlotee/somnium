@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Terminology
-parent: Introduction
-nav_order: 1
 ---
 
 ## Terminology

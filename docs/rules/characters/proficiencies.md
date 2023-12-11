@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Proficiencies
-nav_order: 1
-parent: Characters
 ---
 
 ## Proficiencies

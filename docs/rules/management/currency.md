@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Currency
-nav_order: 1
-parent: Inventory
 ---
 
 ## Currency

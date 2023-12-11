@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Equipment
-nav_order: 3
-parent: Characters
 ---
 
 ## Equipment

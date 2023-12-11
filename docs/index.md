@@ -1,8 +1,3 @@
----
-layout: home
-nav_exclude: true
----
-
 # Welcome to Somnium
 
 Navigate to a specific section using the left nav

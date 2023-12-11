@@ -1,8 +1,5 @@
 ---
-layout: default
-title: 
-nav_order: 1
-parent: Characters
+title: Fate
 ---
 
 # Fate

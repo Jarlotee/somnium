@@ -1,0 +1,36 @@
+site_name: Somnium
+site_url: https://jaredlotti.com/somnium
+repo_url: https://github.com/Jarlotee/somnium
+site_description: An OSR inspired TTRPG rule set
+
+theme:
+  name: material
+  icon:
+    logo: material/sleep
+  palette:
+    scheme: slate
+    primary: teal
+    accent: indigo
+
+    
+
+nav:
+  - Rules:
+    - Introduction: 
+      - rules/introduction/index.md
+      - rules/introduction/terminology.md
+      - rules/introduction/dice-notation.md
+    - Characters:
+      - rules/characters/index.md
+      - rules/characters/fate.md
+      - rules/characters/proficiencies.md
+      - rules/characters/equipment.md
+      - rules/characters/creation.md
+    - Management:
+      - rules/management/inventory.md
+      - rules/management/currency.md
+    - rules/combat/index.md 
+  - Settings:
+    - Oaerth (Greyhawk):
+      - setting/oearth/index.md
+      - setting/oearth/calendar.md

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Calendar
-nav_order: 1
-parent: Settings - Oerth (Grayhawk)
 ---
 
 ## Calendar

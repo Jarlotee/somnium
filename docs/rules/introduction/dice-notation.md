@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Dice Notation
-nav_order: 2
-parent: Introduction
 ---
 
 ## Dice Rolling Notation

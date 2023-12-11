@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Creation
-nav_order: 4
-parent: Characters
 ---
 
 ## Creating a Character
