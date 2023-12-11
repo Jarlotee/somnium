@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dice Notation
+nav_order: 2
+parent: Introduction
+---
+
 ## Dice Rolling Notation
 
 Dice are used in many TTRPG’s to indicate fate or otherwise randomize results. Randomness creates both variety to play and storytelling and can indicate luck or fate.
@@ -45,12 +52,10 @@ An emphasis roll is called when the outcome of an action is deemed to be a catas
 
 Generally these checks are expressed by rolling a certain number of D6 and taking the highest or lowest result. Where:
 
-|              |                                 |
+| Result       | Outcome                         |
 | ------------ | ------------------------------- |
-| **Result**   | **Resistance or Ability Check** |
 | Multiple 1’s | Worst Outcome                   |
 | 1, 2, 3      | Bad Outcome                     |
 | 4, 5         | Good Outcome                    |
 | 6            | Great Outcome                   |
 | Multiple 6’s | Best Outcome                    |
-

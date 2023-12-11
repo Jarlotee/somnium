@@ -1,3 +1,10 @@
+---
+layout: default
+title: Proficiencies
+nav_order: 1
+parent: Characters
+---
+
 ## Proficiencies
 
 ### Languages
@@ -14,9 +21,8 @@ You can use the list below as a reference but it is not an exhaustive list, add 
 
 #### Sample Skills List
 
-|                           |
+| Name                      |
 | ------------------------- |
-| **Name**                  |
 | Lock Picking              |
 | Smithing                  |
 | Fletching                 |
@@ -52,13 +58,12 @@ You can use the list below as a reference but it is not an exhaustive list, add 
 
 The range of each of these attribute progress from:
 
-|             |                                 |
+| Name        | Resistance or Ability Check     |
 | ----------- | ------------------------------- |
-| **Name**    | **Resistance or Ability Check** |
 | No Training | Roll 2d6 at disadvantage        |
-| Proficiency | Roll 1d6                        |
-| Expertise   | Roll 2d6 at advantage           |
-| Mastery     | Roll 3d6 at advantage           |
+| Proficienct | Roll 1d6                        |
+| Expert      | Roll 2d6 at advantage           |
+| Master      | Roll 3d6 at advantage           |
 
 
 ### Weapon Styles

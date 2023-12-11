@@ -1,3 +1,11 @@
+---
+layout: default
+title: Characters
+nav_order: 2
+has_children: true
+has_toc: false
+---
+
 # Characters
 
 Every character is described by a set of attributes which, some of which indicate their relative strengths and weaknesses in mechanical terms.
@@ -7,9 +15,8 @@ Every character is described by a set of attributes which, some of which indicat
 
 The range of each of these attribute progress from:
 
-|               |                                 |
+| Name          | Resistance or Ability Check     |
 | ------------- | ------------------------------- |
-| **Name**      | **Resistance or Ability Check** |
 | Debilitating  | 3d6 take lowest                 |
 | Weak          | 2d6 take lowest                 |
 | Ordinary      | 1d6                             |
@@ -89,17 +96,14 @@ Each character can invest time and energy into gaining with proficiency with too
 
 Skills come in three levels, with each level requiring additional time, blood, and treasure to achieve.
 
-1) Competent
+### Competent
+Indicates the skills and tools with which the character is experienced giving them a large chance of success.
 
-    Indicates the skills and tools with which the character is experienced giving them a large chance of success.
+### Expert
+A character with expertise in a skill or tool doubles the benefit of being proficient. Expertise is rare; achieving expertise in multiple skills or tools becomes increasingly difficult. As a general guideline a character can only be an expert in two skills or tools.
 
-2) Expert
-
-    A character with expertise in a skill or tool doubles the benefit of being proficient. Expertise is rare; achieving expertise in multiple skills or tools becomes increasingly difficult. As a general guideline a character can only be an expert in two skills or tools.
-
-3) Mastery
-
-    A character with mastery in a skill or tool triples the benefit of being proficient. Mastery is particularly rare; achieving mastery in multiple skills or tools is impossible. Characters who achieve this level are often sought out as a teacher and mentor or offered partnership to start a related business. A character may only have one proficiency at Mastery level but may swap it for another. In that case the prior mastery becomes Expertise. As a general guideline the mastery of a skill or tool also takes up an expertise slot.
+### Mastery
+A character with mastery in a skill or tool triples the benefit of being proficient. Mastery is particularly rare; achieving mastery in multiple skills or tools is impossible. Characters who achieve this level are often sought out as a teacher and mentor or offered partnership to start a related business. A character may only have one proficiency at Mastery level but may swap it for another. In that case the prior mastery becomes Expertise. As a general guideline the mastery of a skill or tool also takes up an expertise slot.
 
 
 ## Adventuring Level
@@ -112,9 +116,8 @@ As a GM you are encouraged to create a list of objectives with various rewards. 
 
 The GM can use the following guide to understand character growth. Generally additional attribute gains should be based on where the player spends time and effort and not dolled out for discretionary spending. You may hand them out as rewards for training and other story milestones.
 
-|                       |                                                                                                                                                                                                                               |                  |
+| Adventuring Level     | Description                                                                                                                                                                                                                   |  Fate Points     |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| **Adventuring Level** | **Description**                                                                                                                                                                                                               | **Fate Points**  |
 | None                  | A character with little to no adventuring experience. Desperately trying to survive or find answers to a personal crisis.                                                                                                     | 0                |
 | Neophyte              | A character who is just starting their adventuring career. Known through word of mouth and hungry for work.                                                                                                                   | 3                |
 | Adept                 | A regional hero or villain, recognizable, respected or feared. Allies and enemies are forming, power, skill and wealth are accumulating. Attracting followers with no adventuring experience.                                 | 6                |

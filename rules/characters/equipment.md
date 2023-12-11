@@ -1,9 +1,16 @@
+---
+layout: default
+title: Equipment
+nav_order: 3
+parent: Characters
+---
+
 ## Equipment
 
-|                  |            |                         |                 |
+### Weapons
+
+| Name             | Style      | Damage / Range          | Cost (silver)   |
 | ---------------- | ---------- | ----------------------- | --------------- |
-| **Weapons**      |            |                         |                 |
-| _Name_           | _Style_    | _Damage / Range_        | _Cost (silver)_ |
 | Dagger           | Basic      | 1d2 (30’)               | 5               |
 | Short Sword      | Basic      | 1d4                     | 10              |
 | Sword            | Saber      | 2d4                     | 40              |
@@ -26,19 +33,19 @@
 | Javelin          | Polearm    | 2d4 (40’)               | 10              |
 | Hand Ax          | Basic      | 1d2 (30’)               | 8               |
 
-|           |                              |                             |               |
-| --------- | ---------------------------- | --------------------------- | ------------- |
-| **Armor** |                              |                             |               |
+### Armor
+
 | Name      | Damage Resistance (Physical) | Style                       | Cost (silver) |
+| --------- | ---------------------------- | --------------------------- | ------------- |
 | Leather   | 1                            | Light                       | 50            |
 | Chainmail | 2                            | Medium (-10 Mov, Noisy)     | 500           |
 | Platemail | 3                            | Heavy (-20 Mov, Very Noisy) | 5000          |
 | Shield    | 1                            | Blocking                    | 15            |
 
-|                        |               |
-| ---------------------- | ------------- |
-| **Adventuring Gear**   |               |
+### Adventuring Gear
+
 | Name                   | Cost (silver) |
+| ---------------------- | ------------- |
 | Backpack               | 5             |
 | Crowbar                | 10            |
 | Garlic                 | 1             |
@@ -63,10 +70,10 @@
 | Wine (2 pints)         | 2             |
 | Herbs (Health/Warding) | 10            |
 
-|                                     |               |
-| ----------------------------------- | ------------- |
-| **Animals**                         |               |
+### Animals
+
 | Name                                | Cost (silver) |
+| ----------------------------------- | ------------- |
 | Dog, hunting                        | 50            |
 | Dog, guard                          | 70            |
 | Pack Animal (donkey, mule, camel)   | 80            |
@@ -76,10 +83,10 @@
 | War Medium (horse)                  | 2000          |
 | War Heavy (horse)                   | 3000          |
 
-|                                     |               |
-| ----------------------------------- | ------------- |
-| **Vehicles**                        |               |
+### Vehicles
+
 | Name                                | Cost (silver) |
+| ----------------------------------- | ------------- |
 | Hand Cart                           | 250           |
 | Wagon Light                         | 750           |
 | Wagon Heavy                         | 2000          |

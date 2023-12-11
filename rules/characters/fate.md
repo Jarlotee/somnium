@@ -1,4 +1,11 @@
-## Fate
+---
+layout: default
+title: 
+nav_order: 1
+parent: Characters
+---
+
+# Fate
 
 Fate represents the super natural abilities of characters and creatures in the world.
 
@@ -7,7 +14,7 @@ Rather than charges or static class abilities, techniques and magical items are 
 You might spend a fate point to reroll a die in hopes of a different outcome or spend a point to summon a blinding light in front of an attacker that catches you off-guard.
 
 
-### Abilities
+## Abilities
 
 As a character interacts with the world they will come across special items, tomes and mentors that can train and assist them in their journey.  As the character accepts and practices these abilities they transcend the normal constraints of humanity. To some degree these abilities define them as a hero. 
 
@@ -21,25 +28,52 @@ If a creature is willing to accept the fate ability no roll is required. If the 
 
 You can use the following guidelines to create fate abilities for each character.
 
-|       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                               |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cost  | Guidelines                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Example                                                                                                                                                                                       |
-| 1 FP  | Affects one creature or point in space (5-foot)1d4 damage/shielding with minor secondary effects.– or – No damage/shielding with major effect, duration of 1 minute. Option to save each round.– or – No damage with major effect targeting a consenting creature, duration of 1 hour.                                                                                                                                                                                                                                                                                          | Magical Projectile, Shield, Illusions, Minor Telekinesis, Partial Transformation, Weapon Empowerment, Minor Healing, Minor Divination, Minor Obstacles, Near Teleportation, Minor Enchantment |
-| 3 FP  | Affects a 20’ sphere, 50’ line, 25’ cone, or 3 chosen creatures.3d4 damage/shielding no secondary effects.– or –2d4 damage/shielding with minor effects lasting one round. – or – No damage/shielding with major effect, duration of 1 minute. If targeting multiple creatures, save each round, if targeting a single creature effect lasts until canceled or duration reached.– or – No damage with major effect targeting multiple consenting creatures, duration of 1 hour.– or – No damage with minor effect targeting multiple consenting creatures, duration of 8 hours. | Fireball, Full Transformation, Proximate Divination, Major Illusions, Combat Summoning, Major obstacles, Regional Teleportation, Durable Enchantment                                          |
-| 5 FP  | Affects a 30’ sphere, 100’ line, 40’ cone, or 5 chosen creatures.5d4 damage/shielding no secondary effects.– or –2d4 damage/shielding with minor effects lasting one round. – or – No damage/shielding with major effect and a minor effect, duration of 1 minute. No save vs minor effect. Major effects last until canceled or duration reached.– or – No damage with major effect targeting multiple consenting creatures, duration of 8 hours.– or – No damage with minor effect targeting multiple consenting creatures, duration of 24 hours.                             | Epic Transformation, Major Divination, Massive Illusions, Lethal Combat Summoning, Insurmountable Obstacles, World Teleportation, Semi-Permanent Enchantment, Plane walking                   |
-| 10 FP | Affects a 100’ sphere, 500’ line, 80’ cone, or 15 chosen creatures.10d4 damage/shielding no secondary effects.– or –4d4 damage/shielding with minor effects lasting one round. – or – No damage/shielding with permanent major effect.– or – No damage with major effect targeting multiple consenting creatures, duration of 24 hours.– or – A permanent world feature, e.g. tower, castle, lake, mountain range. A hoard of treasure, miracle, or legendary item.                                                                                                             | Legendary Transformation, Fate Bending Divination, Reality Conforming Illusion, Legendary Combat Summoning, Permanent Banishment, Permanent Enchantment                                       |
+### One Fate Point
 
-Additional FP can be spent to increase damage, number of targets or duration.
+Choose from one of the following affects:
+
+| -- | -- | -- |
+| Affects one creature or point in space (5-foot) 1d4 damage/shielding with minor secondary effects. | No damage/shielding with major effect, duration of 1 minute. Option to save each round. | No damage with major effect targeting a consenting creature, duration of 1 hour. |
+
+*Magical Projectile, Shield, Illusions, Minor Telekinesis, Partial Transformation, Weapon Empowerment, Minor Healing, Minor Divination, Minor Obstacles, Near Teleportation, Minor Enchantment*
+
+### Three Fate Points
+
+Choose from one of the following affects:
+
+| -- | -- | -- |
+| Affects a 20’ sphere, 50’ line, 25’ cone, or 3 chosen creatures. <br /><br /> 3d4 damage/shielding no secondary effects. | 2d4 damage/shielding with minor effects lasting one round. | No damage/shielding with major effect, duration of 1 minute. <br /><br /> If targeting multiple creatures, save each round, if targeting a single creature effect lasts until canceled or duration reached. | No damage with major effect targeting multiple consenting creatures, duration of 1 hour. | No damage with minor effect targeting multiple consenting creatures, duration of 8 hours. |
+
+
+*Fireball, Full Transformation, Proximate Divination, Major Illusions, Combat Summoning, Major obstacles, Regional Teleportation, Durable Enchantment*
+
+### Five Fate Points
+
+Choose from one of the following affects:
+
+| -- | -- | -- |
+| Affects a 30’ sphere, 100’ line, 40’ cone, or 5 chosen creatures. <br /><br /> 5d4 damage/shielding no secondary effects. | 2d4 damage/shielding with minor effects lasting one round. | No damage/shielding with major effect and a minor effect, duration of 1 minute. <br /><br /> No save vs minor effect. Major effects last until canceled or duration reached. | No damage with major effect targeting multiple consenting creatures, duration of 8 hours. | No damage with minor effect targeting multiple consenting creatures, duration of 24 hours. |
+
+*Epic Transformation, Major Divination, Massive Illusions, Lethal Combat Summoning, Insurmountable Obstacles, World Teleportation, Semi-Permanent Enchantment, Plane walking*
+
+### Ten Fate Points
+
+Choose from one of the following affects:
+
+| -- | -- | -- |
+| Affects a 100’ sphere, 500’ line, 80’ cone, or 15 chosen creatures. <br /> <br /> 10d4 damage/shielding no secondary effects. | 4d4 damage/shielding with minor effects lasting one round. | No damage/shielding with permanent major effect. | No damage with major effect targeting multiple consenting creatures, duration of 24 hours. | A permanent world feature, e.g. tower, castle, lake, mountain range. A hoard of treasure, miracle, or legendary item.
+
+*Legendary Transformation, Fate Bending Divination, Reality Conforming Illusion, Legendary Combat Summoning, Permanent Banishment, Permanent Enchantment*
 
 
 ### Effects
 
 You may use the non-exhaustive table of effect below as guidelines to craft character abilities.
 
-|                                   |                                                                                                                                                                                                     |
+#### Minor Effect
+
+| Name                              | Description                                                                                                                                                                                         |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Minor Effects**                 |                                                                                                                                                                                                     |
-| **Name**                          | **Description**                                                                                                                                                                                     |
 | Frightened                        | Unable to approach to source of fear, must make a Resolve resistance check or do half damage                                                                                                        |
 | Silenced                          | Unable to speak                                                                                                                                                                                     |
 | Deafened                          | Unable to hear                                                                                                                                                                                      |
@@ -56,7 +90,12 @@ You may use the non-exhaustive table of effect below as guidelines to craft char
 | Inspired                          | Can reroll any skill, ability, resistance or damage roll.                                                                                                                                           |
 | Near Teleportation                | A character and up to one other creature can teleport to a location within sight but no longer than an hour's walk.                                                                                 |
 | Minor Divination                  | Reading surface thoughts, spying on a nearby location, anticipating a same day event.                                                                                                               |
-| **Major Effects**                 |                                                                                                                                                                                                     |
+
+
+#### Major Effect
+
+| Name                              | Description                                                                                                                                                                                         |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Paralyzed or Stunned              | Restrained and unable to take any actions                                                                                                                                                           |
 | Exhausted                         | The character is physically exhausted. Totalling 4 levels where each level adds a -1 modifier to all skill and ability rolls. Reaching level 4 exhaustion causes immediate death.                   |
 | Invisible                         | Unable to be seen through normal means                                                                                                                                                              |
@@ -66,16 +105,18 @@ You may use the non-exhaustive table of effect below as guidelines to craft char
 | Domination                        | One character overwhelming the mental fortitude of another takes control of their actions.                                                                                                          |
 | Enhancement                       | A character has advantage in accomplishing a certain task for the duration.                                                                                                                         |
 | Greater Divination                | Reading hidden thoughts, examining memories, spying on far locations, anticipating events in the next week.                                                                                         |
-| Epic Effects                      |                                                                                                                                                                                                     |
+
+#### Epic Effect
+
+| Name                              | Description                                                                                                                                                                                         |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Planar Travel                     | Blinking in and out of the material plane or moving from one plane of existence to another. Traveling and observing the world in a proximate plane. Teleporting any distance within the same plane. |
 | Greater Transformation            | Take the form and abilities of another living creature real or imagined. Retaining your own abilities, and mental skills. Turn living creatures into objects and visa-versa. Petrification.         |
 | Overriding Memory and Personality | One character overwhelming the mental fortitude of another modifies their memories. Gaes.                                                                                                           |
 | Fate Shaping                      | Manipulating the tides of fate in your favor. Learning hidden or lost knowledge. Fall and rise of kingdoms.                                                                                         |
 
 
-
-
-### Other Uses
+## Other Uses
 
 Abilities are powered by fate points but there are many more ways a character can utilize their allotted fate. Generally a character can trade fate points for narrative and mechanical luck. As a GM be careful not to dismiss a character wanting to spend fate to turn the tides of the story in their favor. Consider how you can use resource spend to create drama and interest and tell a better story. Here is a non-exhaustive list of ways a character can spend fate points:
 
@@ -85,6 +126,6 @@ Abilities are powered by fate points but there are many more ways a character ca
 - Move farther than would normally be allowed in a turn
 - Receive knowledge, help, etc. from a patron
 - Find a hidden door
-- Extend the behavior or characteristics of a heroic ability or skill
+- Extend the behavior or characteristics of an ability or skill
 
 As a GM you will have to use your judgment on how the fate points spent will affect the story and outcomes. Do your best to remain consistent. As a player you should be respectful of the story and the other participants. 
