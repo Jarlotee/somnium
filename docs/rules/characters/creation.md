@@ -1,8 +1,6 @@
 ---
-title: Creation
+title: Creating a character
 ---
-
-## Creating a Character
 
 You will need a piece of paper, a character sheet, or another place to record the details of your character for future reference. 
 

@@ -2,8 +2,6 @@
 title: Currency
 ---
 
-## Currency
-
 The basic unit of exchange is silver or direct barter for most day-to-day purchases.
 
 Gold is common among the merchant and noble class.

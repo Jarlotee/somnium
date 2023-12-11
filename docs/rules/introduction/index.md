@@ -2,8 +2,6 @@
 title: What is Somnium?
 ---
 
-# Introduction
-
 ## What is Somnium?
 
 Somnium, derived from the Latin word for dream, is a set of rules and concepts for tabletop role-playing (TTRPG). Its system is designed to be rules-light in order to promote character development, imaginative flair, and storytelling. By design there are no classes, spells, kits, xp, or other automatic means of progressions. Instead guidelines are provided to facilitate that character creation and evolution process. Players ought to be motivated to engage in role-playing and explore the game world, rather than being constrained by a character sheet's predetermined abilities and attributes. 

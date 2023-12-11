@@ -2,8 +2,6 @@
 title: Core Concepts
 ---
 
-# Characters
-
 Every character is described by a set of attributes which, some of which indicate their relative strengths and weaknesses in mechanical terms.
 
 

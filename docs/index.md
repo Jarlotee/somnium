@@ -1,7 +1,9 @@
+---
+title: Home
+---
+
 # Welcome to Somnium
 
-Navigate to a specific section using the left nav
-
-<===
+[Read the Introduction](rules/introduction/){ .md-button .md-button--primary }
 
 You can also search all documents by using the search functionality above ^

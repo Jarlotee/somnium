@@ -2,8 +2,6 @@
 title: Equipment
 ---
 
-## Equipment
-
 ### Weapons
 
 | Name             | Style      | Damage / Range          | Cost (silver)   |

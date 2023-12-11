@@ -2,8 +2,6 @@
 title: Terminology
 ---
 
-## Terminology
-
 ### Game Master
 
 Also known as the Dungeon Master is the person who designs or interprets the setting and runs the sessions for the party. They are the final arbiter of rules and rulings and determine what happens as the result of player actions. 

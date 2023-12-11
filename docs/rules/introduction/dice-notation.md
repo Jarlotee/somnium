@@ -2,8 +2,6 @@
 title: Dice Notation
 ---
 
-## Dice Rolling Notation
-
 Dice are used in many TTRPG’s to indicate fate or otherwise randomize results. Randomness creates both variety to play and storytelling and can indicate luck or fate.
 
 Where:

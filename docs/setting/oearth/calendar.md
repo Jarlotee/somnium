@@ -2,8 +2,6 @@
 title: Calendar
 ---
 
-## Calendar
-
 There are 364 days a year with 12 (28 day) months and 4 week long festivals for a total of 52 weeks a year.
 
 

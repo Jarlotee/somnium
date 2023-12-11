@@ -2,8 +2,6 @@
 title: Proficiencies
 ---
 
-## Proficiencies
-
 ### Languages
 
 A character knows one language which it has used to communicate since birth. Additional languages can be learned by training with another proficient character or reading a primer in said language for 500 hours. Writing equipment and/or a tablet must be present to learn written languages.

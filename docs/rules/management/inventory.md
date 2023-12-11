@@ -2,8 +2,6 @@
 title: Inventory
 ---
 
-# Inventory
-
 The number of items you have available during an encounter is determined by your Wits; the total number of items you can carry is determined by your Might. Any items that are considered _ready_ you can interact with as at will. Items in your _carry_ slots are inaccessible during combat unless you take an action to retrieve them.  Consult the following charts to determine a character ready/carry slots:
 
 ## Ready Slots

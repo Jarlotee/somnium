@@ -2,8 +2,6 @@
 title: Combat
 ---
 
-# Combat
-
 ## Active Initiative
 
 Somnium adopts the active initiative system:

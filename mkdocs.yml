@@ -12,9 +12,11 @@ theme:
     primary: teal
     accent: indigo
 
-    
+markdown_extensions:
+  - attr_list
 
 nav:
+  - index.md
   - Rules:
     - Introduction: 
       - rules/introduction/index.md

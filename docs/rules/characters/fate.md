@@ -2,8 +2,6 @@
 title: Fate
 ---
 
-# Fate
-
 Fate represents the super natural abilities of characters and creatures in the world.
 
 Rather than charges or static class abilities, techniques and magical items are powered by a character's fate points.
