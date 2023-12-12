@@ -56,7 +56,7 @@ The range of each of these attribute progress from:
 | Name        | Resistance or Ability Check     |
 | ----------- | ------------------------------- |
 | No Training | Roll 2d6 at disadvantage        |
-| Proficienct | Roll 1d6                        |
+| Proficient  | Roll 1d6                        |
 | Expert      | Roll 2d6 at advantage           |
 | Master      | Roll 3d6 at advantage           |
 

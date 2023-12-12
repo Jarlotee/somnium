@@ -104,7 +104,7 @@ A character with mastery in a skill or tool triples the benefit of being profici
 
 The character’s sum total adventuring and life experience is denoted by their adventure level. Every character begins as a non-adventurer and advances as they overcome obstacles, learn and grow.
 
-Classically, levels were expressed as experience points which were awarded based on gold acquired rather than monsters killed which incentivized avoiding danger and creative gameplay rather than combat. 
+Classically, levels were expressed as experience points which were awarded based on gold acquired rather than monsters killed which promotes avoiding danger and creative game-play rather than combat. 
 
 As a GM you are encouraged to create a list of objectives with various rewards. Once a number of adventures have completed or a milestone is reached an character attains the next adventuring level. This is usually a significant event that should have narrative flair.
 
@@ -122,7 +122,7 @@ The player can add to their Guard and Wounds through investing time in defensive
 
 ## Alignment and Diametric Opposition
 
-Characters have belief systems which often evolve over time. It is the players responsiblity to roleplay the reasoning behind their characters choices. 
+Characters have belief systems which often evolve over time. It is the players responsibility to role-play the reasoning behind their characters choices. 
 
-If the table enjoys suprises (both positive and negative) aligned items and traps can introduce some fun. However player choice is still preffered at most tables. When introducing a trap or item that has an alignment effect describe the aura of the item or area in a way that is clear to the players. Describing how it feels and what power it could yield along with the sense of trade-off can introduce some drama. Who knows, maybe they can change the heart of a sentient weapon or using a cursed item out of desperation. 
+If the table enjoys surprises (both positive and negative) aligned items and traps can introduce some fun. However player choice is still proffered at most tables. When introducing a trap or item that has an alignment effect describe the aura of the item or area in a way that is clear to the players. Describing how it feels and what power it could yield along with the sense of trade-off can introduce some drama. Who knows, maybe they can change the heart of a sentient weapon or using a cursed item out of desperation. 
 

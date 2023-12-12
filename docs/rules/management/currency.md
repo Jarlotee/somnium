@@ -6,9 +6,9 @@ The basic unit of exchange is silver or direct barter for most day-to-day purcha
 
 Gold is common among the merchant and noble class.
 
-Exotic metals are generally reserved for jewlery and is not made into coin, though trade bars are sometimes used.
+Exotic metals are generally reserved for jewelry and is not made into coin, though trade bars are sometimes used.
 
-| Type                 | Equivelent   |
+| Type                 | Equivalent   |
 | -------------------- | -----------  |
 | Copper, Coin         | 1/100 silver |
 | Gold, Coin           | 10 silver    |

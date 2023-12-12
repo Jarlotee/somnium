@@ -70,3 +70,5 @@ ENV/
 site*/
 
 .venv
+
+.vscode

@@ -32,4 +32,4 @@ Tabletop role-playing centers on the journey rather than the destination. It is 
 
 - Logistics including training, followers, hirelings, apprentices, vehicles, fiefs and more give meaning and permanence to the world. Great people are defined by not just what they do, but what they hold and how they care for and interact with others.
 
-- Dice are primarly used to determine random effects, not hide or reveal secrets. Avoid the tendency of rolling for things like lore, insight, relgion, etc. Include characters experience and training in narative explinations and allow players to engage directly with the world.
+- Dice are primarily used to determine random effects, not hide or reveal secrets. Avoid the tendency of rolling for things like lore, insight, religion, etc. Include characters experience and training in narrative explanations and allow players to engage directly with the world.

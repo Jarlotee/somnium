@@ -12,8 +12,12 @@ theme:
     primary: teal
     accent: indigo
 
+plugins:
+  - glightbox
+
 markdown_extensions:
   - attr_list
+  - md_in_html
 
 nav:
   - index.md
@@ -36,3 +40,6 @@ nav:
     - Oaerth (Greyhawk):
       - setting/oearth/index.md
       - setting/oearth/calendar.md
+      - History:
+        - setting/oearth/history/1187-bcy.md
+        - setting/oearth/history/1145-bcy.md
