@@ -7,15 +7,15 @@ There are 364 days a year with 12 (28 day) months and 4 week long festivals for 
 
 ### Days of the week
 
-| Name                  |  Activities              |
-| --------------------- | ------------------------ |
-| Starday               | Work                     |
-| Sunday                | Work                     |
-| Moonday               | Market                   |
-| Godsday               | Worship, Family          |
-| Waterday              | Work                     |
-| Earthday              | Work                     |
-| Freeday               | Plays, Tourney, Hobbies  |
+| Name     |  Activities              |
+| -------- | ------------------------ |
+| Starday  | Work                     |
+| Sunday   | Work                     |
+| Moonday  | Market                   |
+| Godsday  | Worship, Family          |
+| Waterday | Work                     |
+| Earthday | Work                     |
+| Freeday  | Plays, Tourney, Hobbies  |
 
 
 ### Dozenmonths of Luna and the Four festivals
@@ -47,7 +47,7 @@ There are 364 days a year with 12 (28 day) months and 4 week long festivals for 
 
 * Growfest
 
-    Flower festival, root stew, baking, fatted animals, berries, competion, plannting compelete 
+    Flower festival, root stew, baking, fatted animals, berries, competition, planting complete 
 
 * Richfest
 

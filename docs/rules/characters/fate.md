@@ -27,7 +27,8 @@ You can use the following guidelines to create fate abilities for each character
 
 Choose from one of the following affects:
 
-| -- | -- | -- |
+| A | B | C |
+| - | - | - |
 | Affects one creature or point in space (5-foot) 1d4 damage/shielding with minor secondary effects. | No damage/shielding with major effect, duration of 1 minute. Option to save each round. | No damage with major effect targeting a consenting creature, duration of 1 hour. |
 
 *Magical Projectile, Shield, Illusions, Minor Telekinesis, Partial Transformation, Weapon Empowerment, Minor Healing, Minor Divination, Minor Obstacles, Near Teleportation, Minor Enchantment*
@@ -36,7 +37,8 @@ Choose from one of the following affects:
 
 Choose from one of the following affects:
 
-| -- | -- | -- |
+| A | B | C | D | E |
+| - | - | - | - | - |
 | Affects a 20’ sphere, 50’ line, 25’ cone, or 3 chosen creatures. <br /><br /> 3d4 damage/shielding no secondary effects. | 2d4 damage/shielding with minor effects lasting one round. | No damage/shielding with major effect, duration of 1 minute. <br /><br /> If targeting multiple creatures, save each round, if targeting a single creature effect lasts until canceled or duration reached. | No damage with major effect targeting multiple consenting creatures, duration of 1 hour. | No damage with minor effect targeting multiple consenting creatures, duration of 8 hours. |
 
 
@@ -46,8 +48,9 @@ Choose from one of the following affects:
 
 Choose from one of the following affects:
 
-| -- | -- | -- |
-| Affects a 30’ sphere, 100’ line, 40’ cone, or 5 chosen creatures. <br /><br /> 5d4 damage/shielding no secondary effects. | 2d4 damage/shielding with minor effects lasting one round. | No damage/shielding with major effect and a minor effect, duration of 1 minute. <br /><br /> No save vs minor effect. Major effects last until canceled or duration reached. | No damage with major effect targeting multiple consenting creatures, duration of 8 hours. | No damage with minor effect targeting multiple consenting creatures, duration of 24 hours. |
+| A | B | C | D | E |
+| - | - | - | - | - |
+| Affects a 30’ sphere, 100’ line, 40’ cone, or 5 chosen creatures. <br /><br /> 5d4 damage/shielding no secondary effects. | 4d4 damage/shielding with minor effects lasting one round. | No damage/shielding with major effect and a minor effect, duration of 1 minute. <br /><br /> No save vs minor effect. Major effects last until canceled or duration reached. | No damage with major effect targeting multiple consenting creatures, duration of 8 hours. | No damage with minor effect targeting multiple consenting creatures, duration of 24 hours. |
 
 *Epic Transformation, Major Divination, Massive Illusions, Lethal Combat Summoning, Insurmountable Obstacles, World Teleportation, Semi-Permanent Enchantment, Plane walking*
 
@@ -55,8 +58,9 @@ Choose from one of the following affects:
 
 Choose from one of the following affects:
 
-| -- | -- | -- |
-| Affects a 100’ sphere, 500’ line, 80’ cone, or 15 chosen creatures. <br /> <br /> 10d4 damage/shielding no secondary effects. | 4d4 damage/shielding with minor effects lasting one round. | No damage/shielding with permanent major effect. | No damage with major effect targeting multiple consenting creatures, duration of 24 hours. | A permanent world feature, e.g. tower, castle, lake, mountain range. A hoard of treasure, miracle, or legendary item.
+| A | B | C | D | E |
+| - | - | - | - | - |
+| Affects a 100’ sphere, 500’ line, 80’ cone, or 15 chosen creatures. <br /> <br /> 10d4 damage/shielding no secondary effects. | 8d4 damage/shielding with minor effects lasting one round. | No damage/shielding with permanent major effect. | No damage with major effect targeting multiple consenting creatures, duration of 24 hours. | A permanent world feature, e.g. tower, castle, lake, mountain range. A hoard of treasure, miracle, or legendary item.
 
 *Legendary Transformation, Fate Bending Divination, Reality Conforming Illusion, Legendary Combat Summoning, Permanent Banishment, Permanent Enchantment*
 
@@ -113,14 +117,13 @@ You may use the non-exhaustive table of effect below as guidelines to craft char
 
 ## Other Uses
 
-Abilities are powered by fate points but there are many more ways a character can utilize their allotted fate. Generally a character can trade fate points for narrative and mechanical luck. As a GM be careful not to dismiss a character wanting to spend fate to turn the tides of the story in their favor. Consider how you can use resource spend to create drama and interest and tell a better story. Here is a non-exhaustive list of ways a character can spend fate points:
+Abilities are powered by fate points but there are many more ways a character can utilize their allotted fate. Generally a character can trade fate points for narrative and mechanical luck. As a GM be careful not to dismiss a character wanting to spend fate to turn the tides of the story in their favor. Consider how you can use resources spent to create drama and interest, to tell a better story. Here is a non-exhaustive list of ways a character can spend fate points:
 
 - Add an additional die to a skill check or guarantee the best possible outcome
 - Add an additional die to a resistance check, or guarantee the best possible outcome
 - Reroll damage dice
 - Move farther than would normally be allowed in a turn
 - Receive knowledge, help, etc. from a patron
-- Find a hidden door
 - Extend the behavior or characteristics of an ability or skill
 
 As a GM you will have to use your judgment on how the fate points spent will affect the story and outcomes. Do your best to remain consistent. As a player you should be respectful of the story and the other participants. 

@@ -2,7 +2,7 @@
 title: Inventory
 ---
 
-The number of items you have available during an encounter is determined by your Wits; the total number of items you can carry is determined by your Might. Any items that are considered _ready_ you can interact with as at will. Items in your _carry_ slots are inaccessible during combat unless you take an action to retrieve them.  Consult the following charts to determine a character ready/carry slots:
+The number of items your character has available during an encounter is determined by your Wits; the total number of items your character can carry is determined by your Might. Any items that are considered _ready_ can be interacted with as at will. Items in the _carry_ slots are inaccessible during combat unless an action is taken to retrieve them.  Consult the following charts to determine a character ready/carry slots:
 
 ## Ready Slots
 
@@ -25,12 +25,11 @@ The number of items you have available during an encounter is determined by your
 | Exceptional           | 12    |
 | Peerless              | 14    |
 
+> Things that are strapped to you in an unencumbered way do not fill a ready slot (e.g. clothes, armor, belts, etc.)
 
 ## Vehicles
 
 Vehicles including mounts have their own ready/carry items slots at the GM’s discretion, you can use the following as a guideline:
-
-
 
 | Type                 | Ready Slots | Carry Slots |
 | -------------------- | ----------- | ----------- |

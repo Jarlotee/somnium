@@ -30,12 +30,12 @@ title: Equipment
 
 ### Armor
 
-| Name      | Damage Resistance (Physical) | Style                       | Cost (silver) |
-| --------- | ---------------------------- | --------------------------- | ------------- |
-| Leather   | 1                            | Light                       | 50            |
-| Chainmail | 2                            | Medium (-10 Mov, Noisy)     | 500           |
-| Platemail | 3                            | Heavy (-20 Mov, Very Noisy) | 5000          |
-| Shield    | 1                            | Blocking                    | 15            |
+| Name      | Style                       | Damage Resistance (Physical) | Cost (silver) |
+| --------- | --------------------------- | ---------------------------- | ------------- |
+| Leather   | Light                       | 1                            | 50            |
+| Chainmail | Medium (-10 Mov, Noisy)     | 2                            | 500           |
+| Platemail | Heavy (-20 Mov, Very Noisy) | 3                            | 5000          |
+| Shield    | Blocking                    | 1                            | 15            |
 
 ### Adventuring Gear
 
@@ -80,12 +80,12 @@ title: Equipment
 
 ### Vehicles
 
-| Name                                | Cost (silver) |
-| ----------------------------------- | ------------- |
-| Hand Cart                           | 250           |
-| Wagon Light                         | 750           |
-| Wagon Heavy                         | 2000          |
-| Barge                               | 250           |
-| Boat, small                         | 750           |
-| Boat, long                          | 1500          |
-| Ship, small                         | 20000         |
+| Name         | Cost (silver) |
+| -------------| ------------- |
+| Hand Cart    | 250           |
+| Wagon Light  | 750           |
+| Wagon Heavy  | 2000          |
+| Barge        | 250           |
+| Boat, small  | 750           |
+| Boat, long   | 1500          |
+| Ship, small  | 20000         |

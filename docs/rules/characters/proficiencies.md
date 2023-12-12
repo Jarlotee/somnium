@@ -6,12 +6,17 @@ title: Proficiencies
 
 A character knows one language which it has used to communicate since birth. Additional languages can be learned by training with another proficient character or reading a primer in said language for 500 hours. Writing equipment and/or a tablet must be present to learn written languages.
 
+### Equipment
+
+A character can gain proficiency in equipment such as weapons or armor from a competent character or by reading a primer after spending 300 hours. Weapons and armor are categorized by style and the character is assumed proficient with all related equipment within that style.
+
+A character proficient in a particular armor style will be able to use that style to better effect.
 
 ### Skills
 
-A character can learn a new skill from a proficient character or by reading a primer after spending 400 hours.
+A character can learn a new skill from a competent character or by reading a primer after spending 400 hours.
 
-You can use the list below as a reference but it is not an exhaustive list, add your own tailored to your character and setting.
+The sample skill list below acts as a reference, remember to tailor skills to your players and setting.
 
 
 #### Sample Skills List
@@ -56,7 +61,7 @@ The range of each of these attribute progress from:
 | Name        | Resistance or Ability Check     |
 | ----------- | ------------------------------- |
 | No Training | Roll 2d6 at disadvantage        |
-| Proficient  | Roll 1d6                        |
+| Competent   | Roll 1d6                        |
 | Expert      | Roll 2d6 at advantage           |
 | Master      | Roll 3d6 at advantage           |
 
@@ -72,11 +77,4 @@ All characters are permitted to use any armor. A character who is proficient wit
 
 A character must be at least proficient in the next lower tier of armor before they can become proficient in a heavier version.
 
-_Optional Rule: A character who doffs their chain or plate armor for recreation or rest may continue to wear the underlying padding as if it were leather armor._
-
-
-### Equipment
-
-A character can gain proficiency in equipment such as weapons or armor from a proficient character or by reading a primer after spending 300 hours. Weapons and armor are categorized by style and the character is assumed proficient with all related equipment within that style.
-
-A character proficient in a particular armor style will be able to use that style to better effect. See the armor section in equipment for detail.
+> Optional Rule: A character who doffs their chain or plate armor for recreation or rest may continue to wear the underlying padding as if it were leather armor.

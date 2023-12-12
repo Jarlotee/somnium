@@ -12,6 +12,11 @@ Somnium adopts the active initiative system:
 4. **Start a new round:** continue until the conflict is resolved, the last to act in the prior round picks the first to act in the new round (including themselves).
 5. **Change it up:** You can elect to interrupt at the end of a turn by spending a fate point or taking damage, if you have not yet acted that round.
 
+## Taking a turn
+
+Each character can move and take a single action on their turn. 
+
+Using a ranged weapon or ability typically requires the character to remain in place. Depending on the terrain they may use up to 50% of their regular movement.
 
 ## Attacking
 

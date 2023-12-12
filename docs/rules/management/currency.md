@@ -2,11 +2,11 @@
 title: Currency
 ---
 
-The basic unit of exchange is silver or direct barter for most day-to-day purchases.
+The basic unit of exchange is silver though bartering is still used for many day-to-day purchases.
 
 Gold is common among the merchant and noble class.
 
-Exotic metals are generally reserved for jewelry and is not made into coin, though trade bars are sometimes used.
+Exotic metals are generally reserved for jewelry and other specialty goods and are not often made into coin, though trade bars are sometimes used.
 
 | Type                 | Equivalent   |
 | -------------------- | -----------  |

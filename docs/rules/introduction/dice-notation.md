@@ -18,7 +18,7 @@ When multiple dice should be rolled you will see the number of dice notated on t
 Where:
 
 - 2d4: Roll two, four-sided die
-- 10d6: Roll then, six-sided die
+- 10d6: Roll ten, six-sided die
 
 
 ### Percentile Dice (d100)
@@ -29,7 +29,7 @@ Where:
 
 - 00+1: 1
 - 00+0: 10 
-- 90+1: 1
+- 90+1: 91
 - 90+0: 100 
 
 
@@ -47,10 +47,12 @@ An emphasis roll is called when the outcome of an action is deemed to be a catas
 
 Generally these checks are expressed by rolling a certain number of D6 and taking the highest or lowest result. Where:
 
-| Result       | Outcome                         |
-| ------------ | ------------------------------- |
-| Multiple 1’s | Worst Outcome                   |
-| 1, 2, 3      | Bad Outcome                     |
-| 4, 5         | Good Outcome                    |
-| 6            | Great Outcome                   |
-| Multiple 6’s | Best Outcome                    |
+| Result       | Outcome           |
+| ------------ | ----------------- |
+| Multiple 1’s | Worst Possible    |
+| 1, 2, 3      | Bad               |
+| 4, 5         | Good              |
+| 6            | Great             |
+| Multiple 6’s | Best Possible     |
+
+> Note that the Best/Worst possible outcome is based on the difficultly of the task and the skill of the player, some things are just as impossible to succeed as they are to catastrophically fail.
