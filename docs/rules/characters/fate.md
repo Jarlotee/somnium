@@ -50,7 +50,7 @@ Choose from one of the following affects:
 
 | A | B | C | D | E |
 | - | - | - | - | - |
-| Affects a 30’ sphere, 100’ line, 40’ cone, or 5 chosen creatures. <br /><br /> 5d4 damage/shielding no secondary effects. | 4d4 damage/shielding with minor effects lasting one round. | No damage/shielding with major effect and a minor effect, duration of 1 minute. <br /><br /> No save vs minor effect. Major effects last until canceled or duration reached. | No damage with major effect targeting multiple consenting creatures, duration of 8 hours. | No damage with minor effect targeting multiple consenting creatures, duration of 24 hours. |
+| Affects a 30’ sphere, 100’ line, 40’ cone, or 5 chosen creatures. <br /><br /> 5d4 damage/shielding no secondary effects. | 4d4 damage/shielding with minor effects lasting one round. | No damage/shielding with major effect and a minor effect, duration of 1 minute. <br /><br /> No save vs minor effect. Major effects last until canceled or duration reached. <br /><br /> If targeting multiple creatures, save each round, if targeting a single creature effect lasts until canceled or duration reached. | No damage with major effect targeting multiple consenting creatures, duration of 8 hours. | No damage with minor effect targeting multiple consenting creatures, duration of 24 hours. |
 
 *Epic Transformation, Major Divination, Massive Illusions, Lethal Combat Summoning, Insurmountable Obstacles, World Teleportation, Semi-Permanent Enchantment, Plane walking*
 
@@ -60,7 +60,7 @@ Choose from one of the following affects:
 
 | A | B | C | D | E |
 | - | - | - | - | - |
-| Affects a 100’ sphere, 500’ line, 80’ cone, or 15 chosen creatures. <br /> <br /> 10d4 damage/shielding no secondary effects. | 8d4 damage/shielding with minor effects lasting one round. | No damage/shielding with permanent major effect. | No damage with major effect targeting multiple consenting creatures, duration of 24 hours. | A permanent world feature, e.g. tower, castle, lake, mountain range. A hoard of treasure, miracle, or legendary item.
+| Affects a 100’ sphere, 500’ line, 80’ cone, or 15 chosen creatures. <br /> <br /> 10d4 damage/shielding no secondary effects. | 8d4 damage/shielding with minor effects lasting one round. | No damage/shielding with permanent epic effect. On a save a major becomes permanent. | No damage with major effect targeting multiple consenting creatures, duration of 24 hours. | A permanent world feature, e.g. tower, castle, lake, mountain range. A hoard of treasure, miracle, or legendary item.
 
 *Legendary Transformation, Fate Bending Divination, Reality Conforming Illusion, Legendary Combat Summoning, Permanent Banishment, Permanent Enchantment*
 

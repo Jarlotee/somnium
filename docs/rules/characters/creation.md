@@ -4,7 +4,7 @@ title: Creating a character
 
 You will need a piece of paper, a character sheet, or another place to record the details of your character for future reference. 
 
-It is recommended to start your adventure as a non-adventurer and to let the story and your character's motivations guide the development of your hero. A non-adventurer may select one skill or tool proficiency but would have minimal equipment, experience and no abilities.
+It is recommended to start your adventure as a non-adventurer and to let the story and your character's motivations guide the development of your hero.
 
 ### Attributes
 
@@ -22,7 +22,7 @@ Every character starts with one language proficiency (their own spoken language)
 
 ### Wealth and Equipment
 
-Roll 3d6 x 10 silver pieces. You may spend as much of this money as desired on adventuring equipment by consulting the equipment list below. If you wish to purchase something not on the list, consult your GM on its availability and cost.
+Roll 3d6 x 10 silver pieces. Generally you may spend as much of this money as desired on adventuring equipment by consulting the equipment list. If you wish to purchase something not on the list, consult your GM on its availability and cost.
 
 ### Note Damage Reduction
 

@@ -86,18 +86,18 @@ Overland and exploratory movement rate is subjective to the terrain and vehicles
 
 ## Proficiencies
 
-Each character can invest time and energy into gaining with proficiency with tools, languages, and more.
+Each character can invest time and energy into gaining proficiency with tools, languages, and more.
 
 Skills come in three levels, with each level requiring additional time, blood, and treasure to achieve.
 
 ### Competent
-Indicates the skills and tools with which the character is experienced giving them a large chance of success.
+Indicates the character is competent giving them a fair chance of success.
 
 ### Expert
-A character with expertise in a skill or tool doubles the benefit of being proficient. Expertise is rare; achieving expertise in multiple skills or tools becomes increasingly difficult. As a general guideline a character can only be an expert in two skills or tools.
+A character with expertise doubles the benefit of being proficient. Expertise is rare; achieving expertise in multiple skills or tools becomes increasingly difficult. As a general guideline a character can only be an expert in three skills or tools.
 
 ### Mastery
-A character with mastery in a skill or tool triples the benefit of being proficient. Mastery is particularly rare; achieving mastery in multiple skills or tools is impossible. Characters who achieve this level are often sought out as a teacher and mentor or offered partnership to start a related business. A character may only have one proficiency at Mastery level but may swap it for another. In that case the prior mastery becomes Expertise. As a general guideline the mastery of a skill or tool also takes up an expertise slot.
+A character with mastery triples the benefit of being proficient. Mastery is particularly rare; achieving mastery in multiple skills or tools is impossible. Characters who achieve this level are often sought out as a teacher and mentor or offered partnership to start a related business. A character may only have one proficiency at Mastery level but may swap it for another. As a general guideline the mastery of a skill or tool also takes up an expertise slot.
 
 
 ## Adventuring Level
@@ -108,7 +108,9 @@ Classically, levels were expressed as experience points which were awarded based
 
 As a GM you are encouraged to create a list of objectives with various rewards. Once a number of adventures have completed or a milestone is reached an character attains the next adventuring level. This is usually a significant event that should have narrative flair.
 
-The GM can use the following guide to understand character growth. Generally additional attribute gains should be based on where the player spends time and effort and not dolled out for discretionary spending. You may hand them out as rewards for training and other story milestones.
+See the following guide to character growth for details. 
+
+> Improving attribute scores should be based on where the player spends time and effort. As a GM award improved attributes as rewards for time spent or other story milestones.
 
 | Adventuring Level     | Description                                                                                                                                                                                                                   |  Fate Points     |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -124,5 +126,4 @@ The player can add to their Guard and Wounds through investing time in defensive
 
 Characters have belief systems which often evolve over time. It is the players responsibility to role-play the reasoning behind their characters choices. 
 
-If the table enjoys surprises (both positive and negative) aligned items and traps can introduce some fun. However player choice is still proffered at most tables. When introducing a trap or item that has an alignment effect describe the aura of the item or area in a way that is clear to the players. Describing how it feels and what power it could yield along with the sense of trade-off can introduce some drama. Who knows, maybe they can change the heart of a sentient weapon or using a cursed item out of desperation. 
-
+If the table enjoys surprises (both positive and negative) aligned items and traps can introduce some fun. However player choice is still preffered at most tables. When introducing a trap or item that has an alignment effect describe the aura of the item or area in a way that is clear to the players. Describing how it feels and what power it could yield along with the sense of trade-off can introduce some drama. Who knows, maybe they can change the heart of a sentient weapon or using a cursed item in a desperate moment. 

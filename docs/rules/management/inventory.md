@@ -29,7 +29,7 @@ The number of items your character has available during an encounter is determin
 
 ## Vehicles
 
-Vehicles including mounts have their own ready/carry items slots at the GM’s discretion, you can use the following as a guideline:
+Vehicles including mounts have their own ready/carry items slots, you can use the following as a guideline:
 
 | Type                 | Ready Slots | Carry Slots |
 | -------------------- | ----------- | ----------- |

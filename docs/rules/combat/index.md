@@ -32,4 +32,4 @@ Armor and shields only protect you against physical damage (piercing, slashing, 
 
 ## Bypassing Defenses with Called Shots
 
-If you find yourself up against a wall against an armored foe you may need to change tactics. You can target a vulnerable spot in their defenses by using a called shot. Make a skill check with the appropriate weapon type based on your expertise on success you can bypass some of the enemies armor or potentially cause a temporary status effect. As a GM ensure that the called shot has an impact on the fight in a balanced way.
+If you find yourself fighting a well armored foe you may need to change tactics. You can target a vulnerable spot in their defenses by using a called shot. Make a skill check based on your weapon expertise, on success you can bypass some of the enemies armor or potentially cause a temporary status effect. As a GM ensure that the called shot has an impact on the fight in a balanced way.

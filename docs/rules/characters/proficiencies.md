@@ -8,7 +8,7 @@ A character knows one language which it has used to communicate since birth. Add
 
 ### Equipment
 
-A character can gain proficiency in equipment such as weapons or armor from a competent character or by reading a primer after spending 300 hours. Weapons and armor are categorized by style and the character is assumed proficient with all related equipment within that style.
+A character can gain proficiency in equipment such as weapons or armor from a competent character or by reading a primer after spending 300 hours. Weapons and armor are categorized by style and the character is assumed proficient with all related equipment of the relevant style.
 
 A character proficient in a particular armor style will be able to use that style to better effect.
 
@@ -58,7 +58,7 @@ The sample skill list below acts as a reference, remember to tailor skills to yo
 
 The range of each of these attribute progress from:
 
-| Name        | Resistance or Ability Check     |
+| Name        | Skill Check                     |
 | ----------- | ------------------------------- |
 | No Training | Roll 2d6 at disadvantage        |
 | Competent   | Roll 1d6                        |
