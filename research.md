@@ -4,7 +4,7 @@ Nyrond ??
 
 Greyhawk village existed when Maret Nial of the Great Kingdom was granted posession of the land. (4CY)
 
-Mistress Rhola => ruler of (Gradsul safe haven in the old tongue, affectionatly called Grimhollow)
+Mistress Rhola => ruler of (Gradsul safe haven in the old tongue, affectionatly called Grimhollow, used to be called safehollow)
 
 Niole Dra (keep that the players are asked to restore and defend, near a outlet on the sheldomar river)
 
@@ -15,3 +15,5 @@ Stalemate at fairbridge (Verbobonc) creates the seeds of Veluna, with a largely 
 Vigil hill (hook hill) seat of the feudal lords, Keo the Black Hand
 
 Zagyg => mad mage trapped in the remenant of the ruined towers
+
+Sir Loran => Tragic knight who wanted to build a lineage and be famouse, could be a servant and antagonist.

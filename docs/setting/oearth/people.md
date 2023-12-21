@@ -29,6 +29,10 @@ She held the title of Empress for only a year before her husband's death where h
 
 After a year of mourning Heleen combined and consolidated control of the government and church, turning Fleeth into a religious state. Previously discouraged, any use of magic was outlawed and elves and other non humans were exiled or enslaved.
 
+## The Practical Preacher
+
+There is a rumor of a new religion spreading throughout the West Marches and Falls Valley.
+
 ## Ser Keonus of the Vigil
 
 Not much is known about Ser Keonus who rules from Falls Valley to the Grey Moors. Overland trade is not as popular as in days past given the banditry and monster attacks common in the valley. 
