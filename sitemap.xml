@@ -2,82 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jaredlotti.com/somnium/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/characters/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/characters/creation/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/characters/equipment/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/characters/fate/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/characters/proficiencies/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/combat/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/introduction/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/introduction/dice-notation/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/introduction/terminology/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/management/currency/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/rules/management/inventory/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/setting/oearth/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/setting/oearth/calendar/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaredlotti.com/somnium/setting/oearth/people/</loc>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/setting/oearth/history/1151-bcy/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jaredlotti.com/somnium/setting/oearth/history/1187-bcy/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
