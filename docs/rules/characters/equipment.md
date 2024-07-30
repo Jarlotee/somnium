@@ -6,27 +6,27 @@ title: Equipment
 
 | Name             | Style      | Damage / Range          | Cost (silver)   |
 | ---------------- | ---------- | ----------------------- | --------------- |
-| Dagger           | Basic      | 1d2 (30’)               | 5               |
+| Dagger           | Basic      | 1d4 (30’)               | 5               |
 | Short Sword      | Basic      | 1d4                     | 10              |
-| Sword            | Saber      | 2d4                     | 40              |
-| Rapier           | Fencing    | 2d4                     | 45              |
-| Great Sword (2H) | Saber      | 3d4                     | 68              |
+| Sword            | Saber      | 1d6                     | 40              |
+| Rapier           | Fencing    | 1d6                     | 45              |
+| Great Sword (2H) | Saber      | 2d4                     | 68              |
 | Staff            | Basic      | 1d4                     | 10              |
 | Spear            | Polearm    | 1d4 (doubled if braced) | 14              |
 | Glaive           | Polearm    | 2d4 (double if braced)  | 100             |
 | Lance            | Polearm    | 1d4 (triple if couched) | 75              |
-| Cudgel           | Basic      | 1d2                     | 5               |
-| Mace             | Bludgeon   | 1d4                     | 14              |
-| Warhammer        | Bludgeon   | 2d4                     | 13              |
-| Maul (2H)        | Bludgeon   | 3d4                     | 20              |
-| Battle Ax        | Chopping   | 2d4                     | 13              |
-| Great Ax (2H)    | Chopping   | 3d4                     | 34              |
-| Sling            | Basic      | 1d2 (60’)               | 2               |
-| Crossbow         | Mechanical | 1d4 (80’)               | 100             |
-| Short Bow        | Bow        | 1d2 (80’)               | 45              |
-| Long Bow         | Bow        | 1d4 (160’)              | 250             |
-| Javelin          | Polearm    | 2d4 (40’)               | 10              |
-| Hand Ax          | Basic      | 1d2 (30’)               | 8               |
+| Cudgel           | Basic      | 1d4                     | 5               |
+| Mace             | Bludgeon   | 1d6                     | 14              |
+| Warhammer        | Bludgeon   | 1d6                     | 13              |
+| Maul (2H)        | Bludgeon   | 2d4                     | 20              |
+| Battle Ax        | Chopping   | 1d6                     | 13              |
+| Great Ax (2H)    | Chopping   | 2d4                     | 34              |
+| Sling            | Basic      | 1d4 (60’)               | 2               |
+| Crossbow         | Mechanical | 1d6 (80’)               | 100             |
+| Short Bow        | Bow        | 1d4 (80’)               | 45              |
+| Long Bow         | Bow        | 1d6 (160’)              | 250             |
+| Javelin          | Polearm    | 1d6 (40’)               | 10              |
+| Hand Ax          | Basic      | 1d4 (30’)               | 8               |
 
 ### Armor
 
